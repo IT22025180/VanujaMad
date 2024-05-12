@@ -26,6 +26,6 @@
         android:layout_width="88dp"
         android:layout_height="49dp"
         android:layout_weight="1"
-        app:srcCompat="@drawable/deleteaa" />
+        app:srcCompat="@drawable/deleteicon" />
 
 </LinearLayout>

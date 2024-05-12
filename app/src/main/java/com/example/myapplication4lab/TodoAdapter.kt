@@ -39,7 +39,7 @@ class TodoAdapter(items:List<Todo> , repository: TodoRepository,
 
         holder.checkBox2.setOnLongClickListener {
             val builder = AlertDialog.Builder(context!!)
-            builder.setTitle("Update Todo Item")
+            builder.setTitle("Update name")
             val input = EditText(context)
             input.setText(currentItem.item)
             builder.setView(input)
