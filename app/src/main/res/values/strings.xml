@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application4lab</string>
+    <string name="memolist">memolist</string>
+    <string name="alertTitle">Enter Name</string>
+</resources>
